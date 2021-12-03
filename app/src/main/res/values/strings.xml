@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nhom16_Sensor</string>
+    <string name="back">Back</string>
+    <string name="view">View Sensor</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="group_name">NHÓM 16</string>
+</resources>
